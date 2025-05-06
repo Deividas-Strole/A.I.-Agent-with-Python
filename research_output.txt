@@ -3,3 +3,8 @@ Timestamp: 2025-04-28 17:51:13
 
 topic='Bees' summary='Bees are important winged insects closely related to wasps and ants, renowned for their crucial roles as pollinators. They play an integral part in sustaining ecosystems and food security by pollinating a wide variety of plants, including essential crops. Beyond their agricultural significance, bees contribute to biodiversity, help maintain healthy ecosystems, and provide essential services such as carbon sequestration, water purification, and nutrient cycling. Their decline may have far-reaching effects on other species that rely on them and the plants they pollinate for survival.' sources=['Wikipedia: Bee', 'The Indispensable Buzz: Why Bees Are Critical to Human Life', '5 Ways Bees Are Important To Our Ecosystem'] tools_used=['functions.wikipedia', 'functions.search']
 
+--- Research Output ---
+Timestamp: 2025-05-05 20:20:13
+
+topic='Beer' summary='Beer is an alcoholic beverage produced by the brewing and fermentation of starch. It is typically made by extracting raw materials with water, boiling (usually with hops), and then fermenting. Beer has a rich history and comes in many varieties, with modern brewing developing rapidly alongside a craft beer movement focused on flavorful and diverse styles.' sources=['Wikipedia: Beer', 'History and types of beer from a detailed web search'] tools_used=['Wikipedia', 'Web Search']
+
